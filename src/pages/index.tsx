@@ -15,7 +15,7 @@ export default function Index() {
           alt="Vercel + Notion"
         />
         <h1>Diário de bordo tigosc </h1>
-        <h2>
+        {/* <h2>
           Blazing Fast Notion Blog with Next.js'{' '}
           <ExtLink
             href="https://github.com/vercel/next.js/issues/9524"
@@ -24,7 +24,7 @@ export default function Index() {
           >
             SSG
           </ExtLink>
-        </h2>
+        </h2> */}
 
         <Features />
 
